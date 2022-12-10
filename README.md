@@ -46,5 +46,5 @@ import java.util.Scanner;
             System.out.print("Çin Zodyağı Burcunuz: Koyun");
             break;
     }
-}
     }
+        }
